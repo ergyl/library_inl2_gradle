@@ -1,0 +1,17 @@
+-classpath 'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\build\\classes\\java\\main;C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\build\\resources\\main'
+-d 'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\build\\docs\\javadoc'
+-doctitle 'library2gradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'library2gradle 1.0-SNAPSHOT API'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\Book.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\BookCatalog.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\BookNotFoundException.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\Customer.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\Loan.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\LoanAlreadyExistsException.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\LoanNotFoundException.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\models\\Material.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\ui\\Main.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\utilities\\GenderType.java'
+'C:\\Users\\legio\\Documents\\YRGO\\utvecklingsverktyg\\homework\\inlamning2\\Library2\\library_inl2_gradle\\library2gradle\\src\\main\\java\\se\\yrgo\\library\\utilities\\LoanStatus.java'
