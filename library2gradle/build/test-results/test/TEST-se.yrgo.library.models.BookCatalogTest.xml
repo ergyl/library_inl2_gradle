@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.yrgo.library.models.BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-02-01T15:03:30" hostname="LEGIONX" time="0.025">
+  <properties/>
+  <testcase name="testAddABook()" classname="se.yrgo.library.models.BookCatalogTest" time="0.019"/>
+  <testcase name="testFindBook()" classname="se.yrgo.library.models.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookIgnoringCase()" classname="se.yrgo.library.models.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookWithExtraSpaces()" classname="se.yrgo.library.models.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookThatDoesntExist()" classname="se.yrgo.library.models.BookCatalogTest" time="0.001"/>
+  <system-out><![CDATA[Starting testAddABook...
+Current number of books in book catalog: 1
+Book at index 0: Learning Java
+Added a book...
+Current number of books in book catalog: 2
+Book at index 1: jUnit
+testFindBookThatDoesntExist test success
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

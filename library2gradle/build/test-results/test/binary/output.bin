@@ -1,0 +1,7 @@
+Starting testAddABook...
+,Current number of books in book catalog: 1
+ Book at index 0: Learning Java
+Added a book...
+,Current number of books in book catalog: 2
+Book at index 1: jUnit
+*testFindBookThatDoesntExist test success

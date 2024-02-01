@@ -31,3 +31,7 @@ jar {
         attributes 'Main-Class': 'se.yrgo.library.ui.Main'
     }
 }
+
+
+// automatise compile, run, test, javadoc and packaging
+defaultTasks 'clean', 'compileJava' ,'compileTestJava' ,'test' , 'javadoc', 'jar'
