@@ -1,0 +1,10 @@
+
+f
+java:S1206/"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+T
+java:S5993
+"9Change the visibility of this constructor to "protected".(¶ÉÔ›ıÿÿÿÿ
+V
+java:S11268"AReplace this if-then-else statement by a single return statement.(²ı²@
+?
+java:S1068"*Remove this unused "branch" private field.(„ë_
